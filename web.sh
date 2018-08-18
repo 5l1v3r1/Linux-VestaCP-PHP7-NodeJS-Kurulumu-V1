@@ -2,7 +2,7 @@
 
 ##############################################################################################
 # Tek Sistem İle VestaCP, PHP7,NodeJS Kurulumu Created: HasanAtilan.Com 
-# Açık Kaynak Olarak Paylaştım İstek Gelirse .C Olarak Kodlarım İstediğiniz Gibi Düzenliyebilirsiniz.
+# Açık Kaynak Olarak Paylaştım İstek Gelirse 'C' Olarak Kodlarım İstediğiniz Gibi Düzenliyebilirsiniz.
 ##############################################################################################
 
 
