@@ -4,6 +4,9 @@
 # Tek Sistem İle VestaCP, PHP7,NodeJS Kurulumu Created: HasanAtilan.Com 
 # Açık Kaynak Olarak Paylaştım İstek Gelirse 'C' Olarak Kodlarım İstediğiniz Gibi Düzenliyebilirsiniz.
 # İletisim: instagram.com/netmrhasan & twitter.com/netmrhasan & facebook.com/wenepix & Skype:SkyTime1234
+# hasanatilan.com
+# yargılanıcaksın,eleştirileceksin,alay edilceksin,taklit edilceksin 
+# kimseyi takma hayallerini gerçekleştir acı olmadan kazanç olmaz herkese iyi kodlamalar dilerim :)
 ##############################################################################################
 
 
